@@ -1,0 +1,6 @@
+@FormLists.API_HostAddress = http://localhost:5222
+
+GET {{FormLists.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
